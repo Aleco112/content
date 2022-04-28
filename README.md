@@ -5,7 +5,7 @@
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/breatheco-de/content.git)
 
-CMS for the #BreatheCode Platform
+CMS for the #BreatheCode platform
 
 Here is an API of all the lessons on the platform: https://content.breatheco.de/static/api/lessons.json
 
@@ -20,7 +20,7 @@ The CMS needs to be able to generate URLs with the following format:
 ```
 https://content.breatheco.de/<type of content>/<article id>
 ```
-For example:
+For example: 
 ```
   https://content.breatheco.de/lesson/html_explained
   https://content.breatheco.de/error/query_selector_missing_id
